@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <pattern id="kisi" width="64" height="64" patternUnits="userSpaceOnUse" patternTransform="rotate(45 256 256)">
+      <path d="M0 0H64M0 0V64" stroke="#D4A13A" stroke-opacity=".35" stroke-width="6" fill="none"/>
+    </pattern>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#6E1B3A"/>
+  <rect width="512" height="512" rx="112" fill="url(#kisi)"/>
+  <path d="M256 92 420 256 256 420 92 256Z" fill="#6E1B3A" stroke="#D4A13A" stroke-width="18"/>
+  <path d="M256 160 352 256 256 352 160 256Z" fill="#D4A13A"/>
+  <path d="M256 214 298 256 256 298 214 256Z" fill="#6E1B3A"/>
+</svg>
